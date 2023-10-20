@@ -95,8 +95,7 @@ body{
 
     .apresentacao__links__link:hover{
         background-color: #272727;
-        color: #22d4fd;
-        padding: 3%;
+        color: #22d4fd;    
     }
 
     .rodape{
@@ -107,9 +106,4 @@ body{
         font-family: 'Montserrat', sans-serif;
         font-size: 24px;
         font-weight: 400;
-    }
-
-    .foto__principal{
-        width: 600px;
-        gap: 35px;
     }
